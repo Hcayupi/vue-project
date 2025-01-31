@@ -7,5 +7,16 @@
     {
       "path": "./tsconfig.app.json"
     }
-  ]
+  ],
+  "compilerOptions": {
+    "baseUrl": ".", //Define la base de las rutas relativas
+    "paths": {
+      "@/*":["src/*"] //Alias para usar '@' como 'src'
+    },
+    "moduleResolution": "node",//Usa la resolución estilo Node.js
+    "resolveJsonModule": true, 
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true
+  }
 }
