@@ -15,12 +15,12 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  server: {
+  /*server: {
     host: 'frontend.local',  
     port: 5173, 
     strictPort: true,
     allowedHosts: ['frontend.local']
-  }
+  }*/
 })
 
 
