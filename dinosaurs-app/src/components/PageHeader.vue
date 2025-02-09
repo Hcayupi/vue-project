@@ -1,5 +1,5 @@
 <template>
-    <div class="text-center py-24">
+    <div class="text-center py-5">
         <h1 class="text-5xl font-bold tracking-widest text-white">
             Dinosaurs data
         </h1>
