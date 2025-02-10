@@ -563,139 +563,190 @@
     {
         "name": "Alnashetri",
         "link": "https://dinosaurpictures.org/Alnashetri-pictures",
-        "description": "Alnashetri was a carnivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
+        "description": "Alnashetri fue un carnívoro. Vivió en el período Cretácico y habitaba América del Sur. Sus fósiles han sido encontrados en lugares como Argentina.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 99.6 million years ago to Turonian Age",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 99.6 millones de años hasta la Edad Turoniana",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Alnashetri-Robinson-Kunz-600x409_70fc.jpg"
     },
     {
         "name": "Alocodon",
         "link": "https://dinosaurpictures.org/Alocodon-pictures",
-        "description": "Alocodon was a (unknown). It lived in the Jurassic period and inhabited Europe.",
+        "description": "Alocodon fue un dinosaurio de especie desconocida. Vivió en el período Jurásico y habitaba Europa.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 237 million years ago to 66 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "5478 different specimens have been found by paleontologists"
+            "Existió desde hace 237 millones de años hasta hace 66 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 5478 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/alocodon-1_bf1c.jpg"
     },
     {
         "name": "Altirhinus",
         "link": "https://dinosaurpictures.org/Altirhinus-pictures",
-        "description": "Altirhinus was a herbivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Dundgovi (Mongolia).",
+        "description": "Altirhinus fue un herbívoro. Vivió en el período Cretácico y habitaba Asia. Sus fósiles han sido encontrados en lugares como Dundgovi (Mongolia).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 109 million years ago to Cenomanian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 109 millones de años hasta la Edad Cenomaniana",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/altirhinus_8bc1.jpg"
     },
     {
         "name": "Altispinax",
         "link": "https://dinosaurpictures.org/Altispinax-pictures",
-        "description": "Altispinax was a carnivore. It lived in the Cretaceous period and inhabited Europe.",
+        "description": "Altispinax fue un carnívoro. Vivió en el período Cretácico y habitaba Europa.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 145 million years ago to 132.9 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a predation",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 145 millones de años hasta hace 132.9 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un depredador",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/altispinax_dunkeri_by_teratophoneus-d4u7qdy_a13d.jpg"
-    },
+    }
+,    
+   
     {
         "name": "Alvarezsaurus",
         "link": "https://dinosaurpictures.org/Alvarezsaurus-pictures",
-        "description": "Alvarezsaurus was a carnivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Alvarezsaurus fue un carnívoro. Vivió en el período Cretácico y habitó en América del Sur. Sus fósiles se han encontrado en lugares como Argentina.",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [
-            "Existed from 86.3 million years ago to 83.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 86.3 millones de años hasta hace 83.6 millones de años.",
+            "Vivió en un hábitat terrestre.",
+            "Era un carnívoro.",
+            "Se reproducía poniendo huevos.",
+            "Solo se ha encontrado un espécimen por los paleontólogos."
         ],
         "image": "http://images.dinosaurpictures.org/Alvarezsaurus_20140819_d5c6.jpg"
     },
     {
         "name": "Alwalkeria",
         "link": "https://dinosaurpictures.org/Alwalkeria-pictures",
-        "description": "Alwalkeria was a omnivore. It lived in the Triassic period and inhabited India. Its fossils have been found in places such as Telangana (india).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Alwalkeria fue un omnívoro. Vivió en el período Triásico y habitó en la India. Sus fósiles se han encontrado en lugares como Telangana (India).",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [
-            "Existed from Carnian Age to 228 million years ago",
-            "Lived in a terrestrial habitat",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Carniense hasta hace 228 millones de años.",
+            "Vivió en un hábitat terrestre.",
+            "Solo se ha encontrado un espécimen por los paleontólogos."
         ],
         "image": "http://images.dinosaurpictures.org/Alwalkeria2_2121.jpg"
     },
     {
         "name": "Alxasaurus",
         "link": "https://dinosaurpictures.org/Alxasaurus-pictures",
-        "description": "Alxasaurus was a herbivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Inner Mongolia (China).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Alxasaurus fue un herbívoro. Vivió en el período Cretácico y habitó en Asia. Sus fósiles se han encontrado en lugares como Mongolia Interior (China).",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [
-            "Existed from 125 million years ago to 113 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 125 millones de años hasta hace 113 millones de años.",
+            "Vivió en un hábitat terrestre.",
+            "Era un herbívoro.",
+            "Se reproducía poniendo huevos.",
+            "Solo se ha encontrado un espécimen por los paleontólogos."
         ],
         "image": "http://images.dinosaurpictures.org/Alxasaurus_YWRA_400_0c38.jpg"
     },
     {
         "name": "Amargasaurus",
         "link": "https://dinosaurpictures.org/Amargasaurus-pictures",
-        "description": "Amargasaurus was a herbivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Amargasaurus fue un herbívoro. Vivió en el período Cretácico y habitó en América del Sur. Sus fósiles se han encontrado en lugares como Argentina.",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [
-            "Existed from Barremian Age to 125 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Barremiense hasta hace 125 millones de años.",
+            "Vivió en un hábitat terrestre.",
+            "Era un herbívoro.",
+            "Se reproducía poniendo huevos.",
+            "Solo se ha encontrado un espécimen por los paleontólogos."
         ],
         "image": "http://images.dinosaurpictures.org/amargasaurus-cazaui-a-prehistoric-era-sergey-krasovskiy_b3f2.jpg"
     },
     {
         "name": "Amargatitanis",
         "link": "https://dinosaurpictures.org/Amargatitanis-pictures",
-        "description": "Amargatitanis was a herbivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Amargatitanis fue un herbívoro. Vivió en el período Cretácico y habitó en América del Sur. Sus fósiles se han encontrado en lugares como Argentina.",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [],
         "image": "https://images.dinosaurpictures.org/Amargatitanis/Amargatitanis_tumblr_inline_nuygke3maE1rx4yme_500_0700.jpg"
     },
+    {
+        "name": "Triceratops",
+        "link": "https://dinosaurpictures.org/Triceratops-pictures",
+        "description": "El Triceratops fue un herbívoro conocido por sus tres cuernos y su gran gola ósea. Vivió en el período Cretácico y habitó en América del Norte.",
+        "period": "Cretácico",
+        "diet": "Herbívoro",
+        "habitat": "Terrestre",
+        "quickFacts": [
+            "Existió desde hace 68 millones de años hasta hace 66 millones de años.",
+            "Era uno de los dinosaurios más reconocibles debido a sus cuernos y gola.",
+            "Se reproducía poniendo huevos.",
+            "Se han encontrado múltiples especímenes en Estados Unidos y Canadá."
+        ],
+        "image": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2023/01/22/63cd065d4490e.jpeg"
+    },
+    {
+        "name": "Brachiosaurus",
+        "link": "https://dinosaurpictures.org/Brachiosaurus-pictures",
+        "description": "El Brachiosaurus fue un herbívoro de cuello largo que vivió en el período Jurásico. Habitó en América del Norte y África.",
+        "period": "Jurásico",
+        "diet": "Herbívoro",
+        "habitat": "Terrestre",
+        "quickFacts": [
+            "Existió desde hace 154 millones de años hasta hace 153 millones de años.",
+            "Era uno de los dinosaurios más grandes, con un cuello extremadamente largo.",
+            "Se reproducía poniendo huevos.",
+            "Se han encontrado fósiles en Estados Unidos y Tanzania."
+        ],
+        "image": "https://preview.redd.it/3lpemfxa2b1b1.jpg?auto=webp&s=d0efc48cc11b47ba9bce32a09789066ba15cc63a"
+    },
+    {
+        "name": "Spinosaurus",
+        "link": "https://dinosaurpictures.org/Spinosaurus-pictures",
+        "description": "El Spinosaurus fue un carnívoro semiacuático conocido por su vela dorsal. Vivió en el período Cretácico y habitó en África.",
+        "period": "Cretácico",
+        "diet": "Carnívoro",
+        "habitat": "Semiacuático",
+        "quickFacts": [
+            "Existió desde hace 112 millones de años hasta hace 93.5 millones de años.",
+            "Era uno de los dinosaurios carnívoros más grandes, con una vela distintiva en su espalda.",
+            "Se reproducía poniendo huevos.",
+            "Se han encontrado fósiles en Egipto y Marruecos."
+        ],
+        "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/image_64709378721647535997206_1647535998842.jpg?w=1600"
+    }
+,
+
+
+
     {
         "name": "Amazonsaurus",
         "link": "https://dinosaurpictures.org/Amazonsaurus-pictures",
@@ -756,7 +807,7 @@
             "Reproduced by laying eggs",
             "5 different specimens have been found by paleontologists"
         ],
-        "image": "http://images.dinosaurpictures.org/amphicoelias_and_allosaurus_by_iphicrates-d3jp446_21fe.jpg"
+        "image": "https://dinosaurioss.com/wp-content/uploads/2016/09/Amphicoelias-dimensiones.jpg"
     },
     {
         "name": "Amtocephale",
