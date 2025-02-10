@@ -46,7 +46,7 @@ onMounted(() => {
   <div class=" container max-w-screen-lg mx-auto px-6">
     <div class="mb-3">
       <input type="text" class="border border-gray-300 rounded-xl w-full p-2"
-        placeholder="Search of dinosaur" v-model="search" @input="filterDinosaur" />
+        placeholder="Búsqueda de dinosaurio" v-model="search" @input="filterDinosaur" />
     </div>
     <DinosaurList :dinosaurs="filterDinosaurs.length > 0 ? filterDinosaurs : dinosaurs" />
   </div>

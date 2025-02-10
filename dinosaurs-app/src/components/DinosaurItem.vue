@@ -25,7 +25,7 @@ defineProps<Props>()
                 </li>
             </ul>
 
-            <p v-else> No information</p>
+            <p v-else> Sin información</p>
         </div>
     </div>
 </template>
