@@ -2,95 +2,140 @@
     {
         "name": "Aachenosaurus",
         "link": "https://dinosaurpictures.org/Aachenosaurus-pictures",
-        "description": "Aachenosaurus was a N/A. It lived in the Cretaceous period and inhabited Europe.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Aachenosaurus fue un dinosaurio del que se desconoce su dieta. Vivió en el período Cretácico y habitó en Europa.",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [],
         "image": "https://images.dinosaurpictures.org/Aachenosaurus/aachenosaurus-b2b41ebe-1950-4111-9c93-03b60268647-resize-750_eab7.jpg"
     },
     {
         "name": "Aardonyx",
         "link": "https://dinosaurpictures.org/Aardonyx-pictures",
-        "description": "Aardonyx was a herbivore. It lived in the Jurassic period and inhabited Africa. Its fossils have been found in places such as Free State (South Africa).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Aardonyx fue un herbívoro. Vivió en el período Jurásico y habitó en África. Sus fósiles se han encontrado en lugares como el Estado Libre (Sudáfrica).",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [
-            "Existed from Hettangian Age to Sinemurian Age",
-            "Lived in a terrestrial habitat",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Hettangiense hasta la Edad Sinemuriense.",
+            "Vivió en un hábitat terrestre.",
+            "Solo se ha encontrado un espécimen por los paleontólogos."
         ],
-        "image": "http://images.dinosaurpictures.org/aardonyx_by_elperdido1965-d3lh9x4_aafb.jpg"
+        "image": "https://i.pinimg.com/736x/a8/81/03/a88103272302a66ba7101a46d31d8c94.jpg"
     },
     {
         "name": "Abelisaurus",
         "link": "https://dinosaurpictures.org/Abelisaurus-pictures",
-        "description": "Abelisaurus was a carnivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
+        "description": "Abelisaurus fue un carnívoro. Vivió en el período Cretácico y habitó en América del Sur. Sus fósiles se han encontrado en lugares como Argentina.",
+        "period": "Desconocido",
+        "diet": "Desconocida",
+        "habitat": "Desconocido",
         "quickFacts": [
-            "Existed from 83.5 million years ago to 70.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 83.5 millones de años hasta hace 70.6 millones de años.",
+            "Vivió en un hábitat terrestre.",
+            "Era un carnívoro.",
+            "Se reproducía poniendo huevos.",
+            "Solo se ha encontrado un espécimen por los paleontólogos."
         ],
         "image": "http://images.dinosaurpictures.org/dinosaurier_abelisaurus_c495.jpg"
     },
     {
+        "name": "Tyrannosaurus Rex",
+        "link": "https://dinosaurpictures.org/Tyrannosaurus-Rex-pictures",
+        "description": "El Tyrannosaurus Rex fue uno de los carnívoros más grandes que jamás haya existido. Vivió en el período Cretácico y habitó en América del Norte.",
+        "period": "Cretácico",
+        "diet": "Carnívoro",
+        "habitat": "Terrestre",
+        "quickFacts": [
+            "Existió desde hace 68 millones de años hasta hace 66 millones de años.",
+            "Era uno de los depredadores más grandes de su tiempo.",
+            "Se reproducía poniendo huevos.",
+            "Se han encontrado múltiples especímenes en América del Norte."
+        ],
+        "image": "https://i.blogs.es/546625/rexy/1366_2000.png"
+    },
+    {
+        "name": "Stegosaurus",
+        "link": "https://dinosaurpictures.org/Stegosaurus-pictures",
+        "description": "El Stegosaurus fue un herbívoro conocido por sus placas óseas en la espalda y su cola con púas. Vivió en el período Jurásico y habitó en América del Norte.",
+        "period": "Jurásico",
+        "diet": "Herbívoro",
+        "habitat": "Terrestre",
+        "quickFacts": [
+            "Existió desde hace 155 millones de años hasta hace 150 millones de años.",
+            "Tenía placas óseas en la espalda que podrían haber sido utilizadas para la termorregulación o la defensa.",
+            "Se reproducía poniendo huevos.",
+            "Se han encontrado fósiles en Estados Unidos y Portugal."
+        ],
+        "image": "https://cdn.britannica.com/59/242659-050-75430D8A/Outdoor-statue-of-Stegosaurus-dinosaur.jpg"
+    },
+    {
+        "name": "Velociraptor",
+        "link": "https://dinosaurpictures.org/Velociraptor-pictures",
+        "description": "El Velociraptor fue un pequeño dinosaurio carnívoro conocido por su agilidad y garras afiladas. Vivió en el período Cretácico y habitó en Asia.",
+        "period": "Cretácico",
+        "diet": "Carnívoro",
+        "habitat": "Terrestre",
+        "quickFacts": [
+            "Existió desde hace 75 millones de años hasta hace 71 millones de años.",
+            "Era un depredador ágil y rápido.",
+            "Se reproducía poniendo huevos.",
+            "Se han encontrado fósiles en Mongolia y China."
+        ],
+        "image": "https://static.nationalgeographicla.com/files/styles/image_3200/public/velociraptor-mongoliensis_2490029.webp?w=789&h=345"
+    },
+    {
         "name": "Abrictosaurus",
         "link": "https://dinosaurpictures.org/Abrictosaurus-pictures",
-        "description": "Abrictosaurus was a herbivore. It lived in the Jurassic period and inhabited Africa. Its fossils have been found in places such as Lesotho.",
+        "description": "Abrictosaurus fue un herbívoro. Vivió en el período Jurásico y habitaba África. Sus fósiles han sido encontrados en lugares como Lesoto.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Hettangian Age to 190.8 million years ago",
-            "Lived in a terrestrial",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Hettangiana hasta hace 190.8 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/1289105571_abrictosaurus_head_i_b267.jpg"
     },
     {
         "name": "Abrosaurus",
         "link": "https://dinosaurpictures.org/Abrosaurus-pictures",
-        "description": "Abrosaurus was a herbivore. It lived in the Jurassic period and inhabited Asia. Its fossils have been found in places such as Sichuan (China).",
+        "description": "Abrosaurus fue un herbívoro. Vivió en el período Jurásico y habitaba Asia. Sus fósiles han sido encontrados en lugares como Sichuan (China).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 163.5 million years ago to 157.3 million years ago",
-            "Lived in a quarry",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 163.5 millones de años hasta 157.3 millones de años",
+            "Vivió en una cantera",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
-        "image": "http://images.dinosaurpictures.org/Abrosaurus-dongpoi_d4be.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGfPgXcmX4PBl1MvGkAdAqISuTxoV-ldnVg&s"
     },
     {
         "name": "Abydosaurus",
         "link": "https://dinosaurpictures.org/Abydosaurus-pictures",
-        "description": "Abydosaurus was a herbivore. It lived in the Early Cretaceous period and inhabited North America. Its fossils have been found in places such as Colorado.",
+        "description": "Abydosaurus fue un herbívoro. Vivió en el período Cretácico Temprano y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Colorado.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 109 million years ago to 105.3 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 109 millones de años hasta hace 105.3 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/abydosaurus_79a6.jpg"
     },
     {
         "name": "Acanthopholis",
         "link": "https://dinosaurpictures.org/Acanthopholis-pictures",
-        "description": "Acanthopholis was a herbivore. It lived in the Cretaceous period and inhabited Europe. Its fossils have been found in places such as England (United Kingdom) and England (United Kingdom).",
+        "description": "Acanthopholis fue un herbívoro. Vivió en el período Cretácico y habitaba Europa. Sus fósiles han sido encontrados en lugares como Inglaterra (Reino Unido).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
@@ -100,353 +145,149 @@
     {
         "name": "Achelousaurus",
         "link": "https://dinosaurpictures.org/Achelousaurus-pictures",
-        "description": "Achelousaurus was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Montana.",
+        "description": "Achelousaurus fue un herbívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Montana.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 83.6 million years ago to Maastrichtian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "2 different specimens have been found by paleontologists"
+            "Existió desde hace 83.6 millones de años hasta la Edad Maastrichtiana",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 2 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Achelousaurus_5ae6.jpg"
     },
     {
         "name": "Acheroraptor",
         "link": "https://dinosaurpictures.org/Acheroraptor-pictures",
-        "description": "Acheroraptor was a carnivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Montana.",
+        "description": "Acheroraptor fue un carnívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Montana.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 70.6 million years ago to 66 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 70.6 millones de años hasta hace 66 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/image_1630_1e-Acheroraptor_6ea6.jpg"
     },
     {
         "name": "Achillesaurus",
         "link": "https://dinosaurpictures.org/Achillesaurus-pictures",
-        "description": "Achillesaurus was a carnivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
+        "description": "Achillesaurus fue un carnívoro. Vivió en el período Cretácico y habitaba América del Sur. Sus fósiles han sido encontrados en lugares como Argentina.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 86.3 million years ago to 83.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 86.3 millones de años hasta hace 83.6 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Achillesaurus-maniraptora_c619.jpg"
     },
     {
         "name": "Achillobator",
         "link": "https://dinosaurpictures.org/Achillobator-pictures",
-        "description": "Achillobator was a carnivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Dornogovi (Mongolia).",
+        "description": "Achillobator fue un carnívoro. Vivió en el período Cretácico y habitaba Asia. Sus fósiles han sido encontrados en lugares como Dornogovi (Mongolia).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Cenomanian Age to 83.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Cenomaniana hasta hace 83.6 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
+        ],
+        "image": "http://images.dinosaurpictures.org/achillobator_by_tiffanyturrill-d6qjous_fd48.jpg"
+    },
+    {
+        "name": "Achillobator",
+        "link": "https://dinosaurpictures.org/Achillobator-pictures",
+        "description": "Achillobator fue un carnívoro. Vivió en el período Cretácico y habitaba Asia. Sus fósiles han sido encontrados en lugares como Dornogovi (Mongolia).",
+        "period": "N/A",
+        "diet": "N/A",
+        "habitat": "N/A",
+        "quickFacts": [
+            "Existió desde la Edad Cenomaniana hasta hace 83.6 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/achillobator_by_tiffanyturrill-d6qjous_fd48.jpg"
     },
     {
         "name": "Acristavus",
         "link": "https://dinosaurpictures.org/Acristavus-pictures",
-        "description": "Acristavus was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Arizona and Montana.",
+        "description": "Acristavus fue un herbívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Arizona y Montana.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Campanian Age to 70.6 million years ago",
-            "Lived in a small river biome",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "2 different specimens have been found by paleontologists"
+            "Existió desde la Edad Campaniana hasta hace 70.6 millones de años",
+            "Vivió en un bioma de un pequeño río",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 2 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/lythronax_acristavus_by_paleoguy-d6z59bv_b97a.jpg"
     },
     {
         "name": "Acrocanthosaurus",
         "link": "https://dinosaurpictures.org/Acrocanthosaurus-pictures",
-        "description": "Acrocanthosaurus was a carnivore. It lived in the Early Cretaceous period and inhabited North America. Its fossils have been found in places such as Oklahoma, Texas and Arkansas.",
+        "description": "Acrocanthosaurus fue un carnívoro. Vivió en el período Cretácico Temprano y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Oklahoma, Texas y Arkansas.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Aptian Age to Albian Age",
-            "Lived in a ridge",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "7 different specimens have been found by paleontologists"
+            "Existió desde la Edad Aptiana hasta la Edad Albiana",
+            "Vivió en una cresta",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 7 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/acrocanthosaurus_j_csotonyi_6829.jpg"
     },
     {
         "name": "Acrotholus",
         "link": "https://dinosaurpictures.org/Acrotholus-pictures",
-        "description": "Acrotholus was a herbivore. It lived in the Early Cretaceous period and inhabited North America. Its fossils have been found in places such as Alberta (Canada).",
+        "description": "Acrotholus fue un herbívoro. Vivió en el período Cretácico Temprano y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Alberta (Canadá).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Santonian Age to Campanian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Santoniana hasta la Edad Campaniana",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Acrotholus-Julius-Csotonyi_e8e9.jpg"
     },
     {
-        "name": "Adamantisaurus",
-        "link": "https://dinosaurpictures.org/Adamantisaurus-pictures",
-        "description": "Adamantisaurus was a herbivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as São Paulo (Brazil).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 83.5 million years ago to 66 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Adamantisaurus_mezzalirai_2copia_bffe.jpg"
-    },
-    {
-        "name": "Adasaurus",
-        "link": "https://dinosaurpictures.org/Adasaurus-pictures",
-        "description": "Adasaurus was a carnivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Bayankhongor (Mongolia).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from Maastrichtian Age to 66 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/000-3d-model-adasaurus_pose_000_1db6.jpg"
-    },
-    {
-        "name": "Adeopapposaurus",
-        "link": "https://dinosaurpictures.org/Adeopapposaurus-pictures",
-        "description": "Adeopapposaurus was a herbivore. It lived in the Jurassic period and inhabited South America. Its fossils have been found in places such as Argentina.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 201.3 million years ago to 174.1 million years ago",
-            "Lived in a terrestrial habitat",
-            "2 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/adeopapposaurus-size_69fa.jpg"
-    },
-    {
-        "name": "Adynomosaurus",
-        "link": "https://dinosaurpictures.org/Adynomosaurus-pictures",
-        "description": "Adynomosaurus was a herbivore. It lived in the Cretaceous period and inhabited Europe.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [],
-        "image": "https://images.dinosaurpictures.org/Adynomosaurus/adynomosaurus_by_cisiopurple_dctxwb2-fullview_97cb.jpg"
-    },
-    {
-        "name": "Aegyptosaurus",
-        "link": "https://dinosaurpictures.org/Aegyptosaurus-pictures",
-        "description": "Aegyptosaurus was a herbivore. It lived in the Cretaceous period and inhabited Africa. Its fossils have been found in places such as Tahoua (Niger) and Giza Governorate (Egypt).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 145 million years ago to 93.5 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "7 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/aegyptosaurus_02_7fb0.jpg"
-    },
-    {
-        "name": "Aeolosaurus",
-        "link": "https://dinosaurpictures.org/Aeolosaurus-pictures",
-        "description": "Aeolosaurus was a herbivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina, Argentina and São Paulo (Brazil).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from Campanian Age to Maastrichtian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "6 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Aeolosaurus-old.sinodino_9ca7.jpg"
-    },
-    {
-        "name": "Aepisaurus",
-        "link": "https://dinosaurpictures.org/Aepisaurus-pictures",
-        "description": "Aepisaurus was a herbivore. It lived in the Cretaceous period and inhabited Europe. Its fossils have been found in places such as Vaucluse (France).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [],
-        "image": "http://images.dinosaurpictures.org/aepisaurus_35c1.jpg"
-    },
-    {
-        "name": "Aerodactylus",
-        "link": "https://dinosaurpictures.org/Aerodactylus-pictures",
-        "description": "Aerodactylus was a pterosaur, a type of flying reptile. It was not a dinosaur, though it lived during the same period. Aerodactylus lived during the Late Jurassic and resided in Europe. The first Aerodactylus fossil was discovered in 2014.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 150.8 million years ago to 145 million years ago",
-            "Lived in a marine environment",
-            "Was a piscivore",
-            "Could fly",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/aerodactylus_scolopaciceps_by_dyn0saur-d83stc4_c4a4.jpg"
-    },
-    {
-        "name": "Aerosteon",
-        "link": "https://dinosaurpictures.org/Aerosteon-pictures",
-        "description": "Aerosteon was a carnivore. It lived in the Cretaceous period and inhabited South America. Its fossils have been found in places such as Argentina.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from Campanian Age to 70.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Aerosteon_by_NTamura_37d0.jpg"
-    },
-    {
-        "name": "Aerotitan",
-        "link": "https://dinosaurpictures.org/Aerotitan-pictures",
-        "description": "Aerotitan was a pterosaur, a type of flying reptile. It was not a dinosaur, though it lived during the same period. Aerotitan lived during the Late Cretaceous and resided in South America. The first Aerotitan fossil was discovered in 2012.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from Campanian Age to Maastrichtian Age",
-            "Lived in a marine environment",
-            "Was a piscivore",
-            "Could fly",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/aerotitan_sudamericanus_by_teratophoneus-d5lgg7y_697b.jpg"
-    },
-    {
-        "name": "Aetodactylus",
-        "link": "https://dinosaurpictures.org/Aetodactylus-pictures",
-        "description": "Aetodactylus was a pterosaur, a type of flying reptile. It was not a dinosaur, though it lived during the same period. Aetodactylus lived during the Late Cretaceous and resided in North America. The first Aetodactylus fossil was discovered in 2010.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 99.6 million years ago to 93.5 million years ago",
-            "Lived in a lake",
-            "Was a piscivore",
-            "Could fly",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Aetodactylus-halli_d470.jpg"
-    },
-    {
-        "name": "Aetonyx",
-        "link": "https://dinosaurpictures.org/Aetonyx-pictures",
-        "description": "Aetonyx was a herbivore. It lived in the Jurassic period and inhabited Africa.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [],
-        "image": "http://images.dinosaurpictures.org/Aetonyx_fc89.jpg"
-    },
-    {
-        "name": "Afrovenator",
-        "link": "https://dinosaurpictures.org/Afrovenator-pictures",
-        "description": "Afrovenator was a carnivore. It lived in the Jurassic period and inhabited Africa. Its fossils have been found in places such as Tahoua (Niger).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 174.1 million years ago to Upper Jurassic Epoch",
-            "Lived in a sediment",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Afrovenator_71ec.jpg"
-    },
-    {
-        "name": "Agathaumas",
-        "link": "https://dinosaurpictures.org/Agathaumas-pictures",
-        "description": "Agathaumas was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Colorado.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 93.5 million years ago to Maastrichtian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "630 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Agathaumas_3cd7.jpg"
-    },
-    {
-        "name": "Agilisaurus",
-        "link": "https://dinosaurpictures.org/Agilisaurus-pictures",
-        "description": "Agilisaurus was a herbivore. It lived in the Jurassic period and inhabited Asia. Its fossils have been found in places such as Sichuan (China).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 163.5 million years ago to 157.3 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Agilisaurus_louderbacki_by_Sputatrix_58f2.jpg"
-    },
-    {
         "name": "Agnosphitys",
         "link": "https://dinosaurpictures.org/Agnosphitys-pictures",
-        "description": "Agnosphitys was a (unknown). It lived in the Triassic period and inhabited Europe. Its fossils have been found in places such as England (United Kingdom).",
+        "description": "Agnosphitys fue un dinosaurio de especie desconocida. Vivió en el período Triásico y habitaba Europa. Sus fósiles han sido encontrados en lugares como Inglaterra (Reino Unido).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 208.5 million years ago to 201.3 million years ago",
-            "Lived in a terrestrial habitat",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 208.5 millones de años hasta hace 201.3 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/agnosphitys_31f3.jpg"
     },
     {
         "name": "Agrosaurus",
         "link": "https://dinosaurpictures.org/Agrosaurus-pictures",
-        "description": "Agrosaurus was a herbivore. It lived in the Triassic period and inhabited Europe. Its fossils have been found in places such as England (United Kingdom).",
+        "description": "Agrosaurus fue un herbívoro. Vivió en el período Triásico y habitaba Europa. Sus fósiles han sido encontrados en lugares como Inglaterra (Reino Unido).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
@@ -456,23 +297,23 @@
     {
         "name": "Agujaceratops",
         "link": "https://dinosaurpictures.org/Agujaceratops-pictures",
-        "description": "Agujaceratops was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Coahuila (Mexico).",
+        "description": "Agujaceratops fue un herbívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Coahuila (México).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Campanian Age to Maastrichtian Age",
-            "Lived in a swamp",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "7 different specimens have been found by paleontologists"
+            "Existió desde la Edad Campaniana hasta la Edad Maastrichtiana",
+            "Vivió en un pantano",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 7 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Agujaceratops2_ae35.jpg"
     },
     {
         "name": "Agustinia",
         "link": "https://dinosaurpictures.org/Agustinia-pictures",
-        "description": "Agustinia was a herbivore. It lived in the Cretaceous period and inhabited South America.",
+        "description": "Agustinia fue un herbívoro. Vivió en el período Cretácico y habitaba América del Sur.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
@@ -482,23 +323,23 @@
     {
         "name": "Ahshislepelta",
         "link": "https://dinosaurpictures.org/Ahshislepelta-pictures",
-        "description": "Ahshislepelta was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Montana.",
+        "description": "Ahshislepelta fue un herbívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Montana.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 83.5 million years ago to Maastrichtian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 83.5 millones de años hasta la Edad Maastrichtiana",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Ahshislepelta-wikidino_5c9a.jpg"
     },
     {
         "name": "Airakoraptor",
         "link": "https://dinosaurpictures.org/Airakoraptor-pictures",
-        "description": "Airakoraptor was a carnivore. It lived in the Cretaceous period and inhabited Asia.",
+        "description": "Airakoraptor fue un carnívoro. Vivió en el período Cretácico y habitaba Asia.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
@@ -508,39 +349,39 @@
     {
         "name": "Ajancingenia",
         "link": "https://dinosaurpictures.org/Ajancingenia-pictures",
-        "description": "Ajancingenia was a omnivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Bayankhongor (Mongolia).",
+        "description": "Ajancingenia fue un omnívoro. Vivió en el período Cretácico y habitaba Asia. Sus fósiles han sido encontrados en lugares como Bayankhongor (Mongolia).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Campanian Age to 72.1 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a omnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Campaniana hasta hace 72.1 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un omnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/ajancingenia_by_dennonychus-d6utt9k_00e8.jpg"
     },
     {
         "name": "Ajkaceratops",
         "link": "https://dinosaurpictures.org/Ajkaceratops-pictures",
-        "description": "Ajkaceratops was a herbivore. It lived in the Cretaceous period and inhabited Europe. Its fossils have been found in places such as Hungary.",
+        "description": "Ajkaceratops fue un herbívoro. Vivió en el período Cretácico y habitaba Europa. Sus fósiles han sido encontrados en lugares como Hungría.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Santonian Age to 83.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Santoniana hasta hace 83.6 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Ajkaceratops_3051.jpg"
     },
     {
         "name": "Akainacephalus",
         "link": "https://dinosaurpictures.org/Akainacephalus-pictures",
-        "description": "Akainacephalus was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Arizona.",
+        "description": "Akainacephalus fue un herbívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Arizona.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
@@ -550,253 +391,174 @@
     {
         "name": "Alamosaurus",
         "link": "https://dinosaurpictures.org/Alamosaurus-pictures",
-        "description": "Alamosaurus was a herbivore. It lived in the Late Cretaceous period and inhabited North America. Its fossils have been found in places such as Utah, New Mexico and Coahuila (Mexico).",
+        "description": "Alamosaurus fue un herbívoro. Vivió en el período Cretácico Tardío y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Utah, Nuevo México y Coahuila (México).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 83.6 million years ago to Maastrichtian Age",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "30 different specimens have been found by paleontologists"
+            "Existió desde hace 83.6 millones de años hasta la Edad Maastrichtiana",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 30 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/alamosaurusDB_f460.jpg"
     },
     {
         "name": "Alanqa",
         "link": "https://dinosaurpictures.org/Alanqa-pictures",
-        "description": "Alanqa was a pterosaur, a type of flying reptile. It was not a dinosaur, though it lived during the same period. Alanqa lived during the Late Cretaceous and resided in Africa. The first Alanqa fossil was discovered in 2010.",
+        "description": "Alanqa fue un pterosaurio, un tipo de reptil volador. No era un dinosaurio, aunque vivió durante el mismo período. Alanqa vivió durante el Cretácico Tardío y residió en África. El primer fósil de Alanqa fue descubierto en 2010.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Albian Age to 93.5 million years ago",
-            "Lived in a marine environment",
-            "Was a piscivore",
-            "Could fly",
-            "4 different specimens have been found by paleontologists"
+            "Existió desde la Edad Albiana hasta hace 93.5 millones de años",
+            "Vivió en un entorno marino",
+            "Era un piscívoro",
+            "Podía volar",
+            "Se han encontrado 4 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/rugops-primus-dinosaurs-and-alanqa-sergey-krasovskiy_cd61.jpg"
     },
     {
         "name": "Alaskacephale",
         "link": "https://dinosaurpictures.org/Alaskacephale-pictures",
-        "description": "Alaskacephale was a herbivore. It lived in the Cretaceous period and inhabited North America. Its fossils have been found in places such as Alaska.",
+        "description": "Alaskacephale fue un herbívoro. Vivió en el período Cretácico y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Alaska.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 83.5 million years ago to 70.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 83.5 millones de años hasta hace 70.6 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/alaskacephale_gangloffi_by_teratophoneus-d4sqkwh_84fb.jpg"
     },
     {
         "name": "Albalophosaurus",
         "link": "https://dinosaurpictures.org/Albalophosaurus-pictures",
-        "description": "Albalophosaurus was a herbivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Fukui Prefecture (Japan).",
+        "description": "Albalophosaurus fue un herbívoro. Vivió en el período Cretácico y habitaba Asia. Sus fósiles han sido encontrados en lugares como la Prefectura de Fukui (Japón).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Valanginian Age to 132.9 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Valanginiana hasta hace 132.9 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Albalophosaurus-karkemish00_c3a2.jpg"
     },
     {
         "name": "Albertaceratops",
         "link": "https://dinosaurpictures.org/Albertaceratops-pictures",
-        "description": "Albertaceratops was a herbivore. It lived in the Cretaceous period and inhabited North America. Its fossils have been found in places such as Saskatchewan (Canada) and Montana.",
+        "description": "Albertaceratops fue un herbívoro. Vivió en el período Cretácico y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Saskatchewan (Canadá) y Montana.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 83.5 million years ago to Maastrichtian Age",
-            "Lived in a ridge",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "2 different specimens have been found by paleontologists"
+            "Existió desde hace 83.5 millones de años hasta la Edad Maastrichtiana",
+            "Vivió en una cresta",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Se han encontrado 2 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Albertaceratops_BW2_8033.jpg"
     },
     {
         "name": "Albertadromeus",
         "link": "https://dinosaurpictures.org/Albertadromeus-pictures",
-        "description": "Albertadromeus was a herbivore. It lived in the Cretaceous period and inhabited North America. Its fossils have been found in places such as Saskatchewan (Canada).",
+        "description": "Albertadromeus fue un herbívoro. Vivió en el período Cretácico y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Saskatchewan (Canadá).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 83.6 million years ago to 72.1 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a herbivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 83.6 millones de años hasta hace 72.1 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un herbívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/albertadromeus_by_ntamura-d6b92rt_ca04.jpg"
     },
     {
         "name": "Albertonectes",
         "link": "https://dinosaurpictures.org/Albertonectes-pictures",
-        "description": "Albertonectes was a plesiosaur, a type of marine reptile. It was not a dinosaur, though it coexisted with many dinosaurs. Albertonectes lived during the Late Cretaceous and resided in North America. The first Albertonectes fossil was discovered in 2012.",
+        "description": "Albertonectes fue un plesiosaurio, un tipo de reptil marino. No era un dinosaurio, aunque coexistió con muchos de ellos. Albertonectes vivió durante el Cretácico Tardío y residió en América del Norte. El primer fósil de Albertonectes fue descubierto en 2012.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Campanian Age to 70.6 million years ago",
-            "Lived in a marine environment",
-            "Was a carnivore",
-            "Reproduced by live birth",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Campaniana hasta hace 70.6 millones de años",
+            "Vivió en un entorno marino",
+            "Era un carnívoro",
+            "Se reproducía mediante parto vivo",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Albertonectes_f07c.jpg"
     },
     {
         "name": "Albertonykus",
         "link": "https://dinosaurpictures.org/Albertonykus-pictures",
-        "description": "Albertonykus was a carnivore/insectivore. It lived in the Cretaceous period and inhabited North America. Its fossils have been found in places such as Alberta (Canada).",
+        "description": "Albertonykus fue un carnívoro/insectívoro. Vivió en el período Cretácico y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Alberta (Canadá).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from Maastrichtian Age to 66 million years ago",
-            "Lived in a canyon",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde la Edad Maastrichtiana hasta hace 66 millones de años",
+            "Vivió en un cañón",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Albertonykus_borealis_5f66.jpg"
     },
     {
         "name": "Albertosaurus",
         "link": "https://dinosaurpictures.org/Albertosaurus-pictures",
-        "description": "Albertosaurus was a carnivore. It lived in the Cretaceous period and inhabited North America. Its fossils have been found in places such as Colorado, Missouri and Saskatchewan (Canada).",
+        "description": "Albertosaurus fue un carnívoro. Vivió en el período Cretácico y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Colorado, Misuri y Saskatchewan (Canadá).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 85.8 million years ago to Maastrichtian Age",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Had a body mass of approximately 2500 kg",
-            "Fossil femurs are approximately 905 mm long and wide",
-            "24 different specimens have been found by paleontologists"
+            "Existió desde hace 85.8 millones de años hasta la Edad Maastrichtiana",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Tenía una masa corporal de aproximadamente 2500 kg",
+            "Los fémures fósiles miden aproximadamente 905 mm de largo y ancho",
+            "Se han encontrado 24 especímenes diferentes por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/Primeval_Continued_Albertosaurus_promo_d158.jpg"
     },
     {
         "name": "Albinykus",
         "link": "https://dinosaurpictures.org/Albinykus-pictures",
-        "description": "Albinykus was a carnivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Dornogovi (Mongolia).",
+        "description": "Albinykus fue un carnívoro. Vivió en el período Cretácico y habitaba Asia. Sus fósiles han sido encontrados en lugares como Dornogovi (Mongolia).",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [
-            "Existed from 86.3 million years ago to 83.6 million years ago",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Only one specimen has been found by paleontologists"
+            "Existió desde hace 86.3 millones de años hasta hace 83.6 millones de años",
+            "Vivió en un hábitat terrestre",
+            "Era un carnívoro",
+            "Se reproducía poniendo huevos",
+            "Solo se ha encontrado un espécimen por los paleontólogos"
         ],
         "image": "http://images.dinosaurpictures.org/albinykus_by_teratophoneus-d3dl8t9_9d58.jpg"
     },
     {
         "name": "Alcovasaurus",
         "link": "https://dinosaurpictures.org/Alcovasaurus-pictures",
-        "description": "Alcovasaurus was a herbivore. It lived in the Jurassic period and inhabited North America. Its fossils have been found in places such as Wyoming.",
+        "description": "Alcovasaurus fue un herbívoro. Vivió en el período Jurásico y habitaba América del Norte. Sus fósiles han sido encontrados en lugares como Wyoming.",
         "period": "N/A",
         "diet": "N/A",
         "habitat": "N/A",
         "quickFacts": [],
         "image": "https://images.dinosaurpictures.org/Alcovasaurus/Skeletal-reconstructions-of-A-B-E-F-Alcovasaurus-longispinus-with-most-of-the-known_4b79.jpg"
-    },
-    {
-        "name": "Alectrosaurus",
-        "link": "https://dinosaurpictures.org/Alectrosaurus-pictures",
-        "description": "Alectrosaurus was a carnivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Inner Mongolia (China), Navoiy Region (Uzbekistan) and Ömnögovi (Mongolia).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from Cenomanian Age to Upper Cretaceous Epoch",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "22 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/Alectrosaurus-Gabriel-Lio_c279.jpg"
-    },
-    {
-        "name": "Aletopelta",
-        "link": "https://dinosaurpictures.org/Aletopelta-pictures",
-        "description": "Aletopelta was a herbivore. It lived in the Cretaceous period and inhabited North America. Its fossils have been found in places such as California.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [],
-        "image": "http://images.dinosaurpictures.org/Aletopelta_coombsi_f2fc.jpg"
-    },
-    {
-        "name": "Alexeyisaurus",
-        "link": "https://dinosaurpictures.org/Alexeyisaurus-pictures",
-        "description": "Alexeyisaurus was a plesiosaur, a type of marine reptile. It was not a dinosaur, though it coexisted with many dinosaurs. Alexeyisaurus lived during the Late Triassic and resided in Europe. The first Alexeyisaurus fossil was discovered in 2010.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [],
-        "image": "http://images.dinosaurpictures.org/alexeyisaurus_ca72.jpg"
-    },
-    {
-        "name": "Algoasaurus",
-        "link": "https://dinosaurpictures.org/Algoasaurus-pictures",
-        "description": "Algoasaurus was a herbivore. It lived in the Jurassic/Cretaceous period and inhabited Africa.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [],
-        "image": "http://images.dinosaurpictures.org/Algoasaurus_8a51.jpg"
-    },
-    {
-        "name": "Alioramus",
-        "link": "https://dinosaurpictures.org/Alioramus-pictures",
-        "description": "Alioramus was a carnivore. It lived in the Cretaceous period and inhabited Asia. Its fossils have been found in places such as Bayankhongor (Mongolia), Ömnögovi (Mongolia) and Guangdong (China).",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 72.1 million years ago to 66 million years ago",
-            "Lived in a flood plain",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "3 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/VNalioramus_59cd.jpg"
-    },
-    {
-        "name": "Allosaurus",
-        "link": "https://dinosaurpictures.org/Allosaurus-pictures",
-        "description": "Allosaurus was a carnivore. It lived in the Jurassic period and inhabited Africa, Europe and North America. Its fossils have been found in places such as Utah, North Rhine-Westphalia (Germany) and Nebraska.",
-        "period": "N/A",
-        "diet": "N/A",
-        "habitat": "N/A",
-        "quickFacts": [
-            "Existed from 163.5 million years ago to Coniacian Age",
-            "Lived in a terrestrial habitat",
-            "Was a carnivore",
-            "Reproduced by laying eggs",
-            "Had a body mass of approximately 2090 kg",
-            "117 different specimens have been found by paleontologists"
-        ],
-        "image": "http://images.dinosaurpictures.org/AllosaurusSP2008_2689.jpg"
     },
     {
         "name": "Alnashetri",
